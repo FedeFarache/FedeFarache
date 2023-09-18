@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FedeFarache
+- 👀 I’m interested in a striking proposal
+- 🌱 I’m currently learning Computer Engineering
+- 📫 How to reach me (){
+- -email=fedefarache22@gmail.com
+- "X"=fedefarache
+- }
